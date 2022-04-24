@@ -1,0 +1,16 @@
+characters = {
+     andrej_monn = {
+		name = "Andrej Monn" 
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LIT/LIT_andrej_monn.dds"
+			}
+		}
+		country_leader = {
+			ideology = communism
+			traits = { authoritarian }
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
